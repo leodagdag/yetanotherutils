@@ -8,6 +8,8 @@ import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
 public class ListUtils {
+
+
     /**
      * Split a List of T into partition of n elements.
      * If the provided list is update, the result will not reflect the modification.
@@ -63,4 +65,6 @@ public class ListUtils {
         return result;
     }
 
+    private ListUtils(){
+    }
 }

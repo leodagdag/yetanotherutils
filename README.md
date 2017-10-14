@@ -3,6 +3,7 @@
 Utility library for Java 8
 
 ## Build
+
 Clone the project
 ```
 git clone https://github.com/leodagdag/yetanotherutils.git
@@ -15,12 +16,14 @@ mvn clean install
 ```
 
 ## Usage
+
 Add it as dependency in your project
 
 
 ### Maven
 
 #### Repository
+
 ```xml
 <repositories>
     <repository>
