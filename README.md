@@ -2,7 +2,7 @@
 
 Utility library for Java 8
 
-## Build
+## Build
 
 Clone the project
 ```
@@ -41,6 +41,6 @@ Add it as dependency in your project
 <dependency>
     <groupId>com.yet.another</groupId>
     <artifactId>utils</artifactId>
-    <version>version</version>
+    <version>1.0</version>
 </dependency>
 ``` 
